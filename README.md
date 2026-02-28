@@ -110,8 +110,6 @@ MaxComm communication and payload structure.
 - Follow existing patterns for adding platforms or services: store state in
   `hass.data[DOMAIN]` keyed by `entry.entry_id` and call
   `hass.config_entries.async_setup_platforms` from `async_setup_entry`.
-- Refer to `.github/copilot-instructions.md` for AI agent guidance and architectural
-  context.
 
 ## License
 
