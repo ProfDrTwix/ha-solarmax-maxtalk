@@ -1,0 +1,12 @@
+{
+  "domain": "solarmax",
+  "name": "SolarMax",
+  "version": "0.2.0",
+  "documentation": "https://github.com/ProfDrTwix/ha-solarmax-maxtalk",
+  "issue_tracker": "https://github.com/ProfDrTwix/ha-solarmax-maxtalk/issues",
+  "requirements": [
+    "voluptuous"
+  ],
+  "codeowners": ["@ProfDrTwix"],
+  "config_flow": true
+}

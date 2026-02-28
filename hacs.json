@@ -1,0 +1,10 @@
+{
+  "name": "SolarMax",
+  "content_in_root": false,
+  "domains": [
+    "sensor"
+  ],
+  "owner": "ProfDrTwix",
+  "zip_release": false,
+  "render_readme": true
+}
